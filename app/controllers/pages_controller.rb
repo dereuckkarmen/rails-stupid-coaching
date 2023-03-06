@@ -1,7 +1,7 @@
 class PagesController < ApplicationController
 
   def ask
-    # @answer = params[:answer]
+    # @question = params[:answer]
   end
 
   def answer
